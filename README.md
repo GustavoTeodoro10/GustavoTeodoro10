@@ -52,6 +52,18 @@ ___
 ![](https://nirzak-streak-stats.vercel.app/?user=GustavoTeodoro10&theme=transparent_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTeodoro10&theme=transparent_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<!-- Portfolio 
+## Portfolio:
+- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
+- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
+- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
+- [Client Registry System](https://github.com/VariableBee/Cartorio) -->
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Imagem">
+</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
