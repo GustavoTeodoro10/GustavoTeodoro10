@@ -2,7 +2,7 @@
 - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com Analise de Dados e BI.
 - 🌱 Me formei em ADS pela faculdade Impacta de São Paulo.
 - 💬 Atualmente estou estudando One Oracle Next Education - Alura.
-- 📫 Brasil - Sp. 
+- 📫 São Paulo - Brasil
 <!-- Dropdown -->
 <details>
   <summary>🎯 Sobre Mim</summary>
