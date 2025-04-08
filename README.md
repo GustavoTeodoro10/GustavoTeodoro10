@@ -52,6 +52,8 @@ ___
 ![](https://nirzak-streak-stats.vercel.app/?user=GustavoTeodoro10&theme=transparent_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTeodoro10&theme=transparent_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+
+
 <!-- Portfolio 
 ## Portfolio:
 - [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
@@ -80,5 +82,10 @@ ___
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 
-  
+  <!-- Contador de Visitantes -->
+<div>
+  <br><p><b>Quantidade de visitantes</b></p>  
+  <p><img align="center" src="https://profile-counter.glitch.me/{GustavoTeodoro10}/count.svg" /></p> 
+  <br>
+</div>
 
